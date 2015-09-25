@@ -1,0 +1,71 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-Features-left {
+    width: 56px;
+    height: 58px;
+    background-position: -5px -5px;
+}
+
+.sprite-Features-middle-left {
+    width: 75px;
+    height: 28px;
+    background-position: -71px -5px;
+}
+
+.sprite-Features-middle-right {
+    width: 65px;
+    height: 50px;
+    background-position: -156px -5px;
+}
+
+.sprite-Features-right {
+    width: 72px;
+    height: 34px;
+    background-position: -231px -5px;
+}
+
+.sprite-contact-destination-drop {
+    width: 35px;
+    height: 50px;
+    background-position: -313px -5px;
+}
+
+.sprite-contacts-mail {
+    width: 23px;
+    height: 17px;
+    background-position: -358px -5px;
+}
+
+.sprite-contacts-top-airplain {
+    width: 62px;
+    height: 62px;
+    background-position: -391px -5px;
+}
+
+.sprite-parallax-baloon {
+    width: 44px;
+    height: 65px;
+    background-position: -463px -5px;
+}
+
+.sprite-team-left {
+    width: 104px;
+    height: 39px;
+    background-position: -517px -5px;
+}
+
+.sprite-team-middle-right {
+    width: 38px;
+    height: 89px;
+    background-position: -631px -5px;
+}
+
+.sprite-team-right {
+    width: 71px;
+    height: 71px;
+    background-position: -679px -5px;
+}
